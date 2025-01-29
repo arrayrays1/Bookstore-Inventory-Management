@@ -12,7 +12,7 @@ Features:
 Installation
   Ensure you have Java (JDK 8 or higher) installed on your system.
   Clone or download the project files to your local machine.
-  git clone https://github.com/your-repo/bookstore-inventory.git
+  git clone (https://github.com/arrayrays1/Bookstore-Inventory-Management.git)
   Open the project in an IDE such as IntelliJ IDEA or Eclipse.
   Compile and run the BookstoreInventory.java file.
 
